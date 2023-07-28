@@ -16,3 +16,11 @@ Ref: https://github.com/angelolustosa<br>
 
 Dica:<br>
 Formatar Vscode: alt+shift+F<br>
+
+Seleciona o q quer comentar+[Ctrl+;] = Comenta<br>
+
+Use State
+Variavel - Metodo Atualiza Variavel - E Inicialização<br>
+
+UseEffect - Comportamento: Atualiza sempre que renderizado<br>
+
